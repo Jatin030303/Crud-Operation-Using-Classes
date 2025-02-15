@@ -1,0 +1,17 @@
+.color {
+  color: red;
+}
+
+.dec {
+  text-decoration: none;
+  color: green;
+}
+
+#dec {
+  margin-left: 60px;
+  text-decoration: none;
+  color: green;
+}
+b {
+  color: red;
+}

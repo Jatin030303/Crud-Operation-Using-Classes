@@ -1,0 +1,13 @@
+.color {
+  color: red;
+}
+
+.dec {
+  text-decoration: none;
+  color: green;
+}
+
+.alert {
+  color: red;
+  font-weight: bold;
+}

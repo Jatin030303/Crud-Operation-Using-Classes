@@ -1,0 +1,30 @@
+h1 {
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: green;
+}
+
+.container {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.h1 {
+  margin-left: 350px;
+}
+
+.h2 {
+  margin-left: 350px;
+}
+
+#heading {
+  text-align: center;
+}
+
+.container1 {
+  text-align: center;
+  margin: 20px;
+}

@@ -1,0 +1,21 @@
+.boxes {
+  border: 2px black dotted;
+}
+
+h1 {
+  color: red;
+}
+
+img {
+  height: 100px;
+  width: 200px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.active {
+  font-weight: bold;
+  color: blue;
+}

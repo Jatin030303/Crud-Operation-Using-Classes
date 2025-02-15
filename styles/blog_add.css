@@ -1,0 +1,47 @@
+.error {
+  color: red;
+}
+
+a {
+  text-decoration: none;
+  color: green;
+}
+
+.container {
+  margin: 20px;
+}
+
+.color {
+  color: Red;
+}
+
+a {
+  text-decoration: none;
+  color: green;
+}
+
+.container {
+  display: flex;
+  width: 100%;
+  margin-left: 300px;
+}
+
+.h1 {
+  margin-left: 350px;
+}
+
+.h2 {
+  margin-left: 350px;
+}
+
+#heading {
+  text-align: center;
+}
+
+.id1 {
+  text-align: left;
+}
+
+.bolf {
+  font-weight: bold;
+}

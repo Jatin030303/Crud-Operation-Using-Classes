@@ -1,0 +1,20 @@
+.heading {
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  width: 100%;
+}
+
+.h1 {
+  margin-left: 350px;
+}
+
+.h2 {
+  margin-left: 150px;
+}
+
+a {
+  text-decoration: none;
+}
